@@ -42,22 +42,6 @@ Currently learning Go for backend engineering and exploring Machine Learning wit
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=cmiski&show_icons=true&hide_title=true&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cmiski&layout=compact&hide_border=true&langs_count=8"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
 
 
