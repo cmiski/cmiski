@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Vaibhav</h1>
+<h1 align="center">Hi, I'm vaibhv</h1>
 <p align="center">
-Backend-focused developer • Learning Machine Learning and Go
+Backend developer • Learning Machine Learning and Go
 </p>
 
 ---
@@ -45,11 +45,23 @@ Currently learning Go for backend engineering and exploring Machine Learning wit
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmiski&show_icons=true&hide_title=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cmiski&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=cmiski&show_icons=true&hide_title=true&hide_border=true&theme=transparent"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=cmiski&hide_border=true&theme=transparent"
+    height="150"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmiski&layout=compact&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmiski&layout=compact&hide_border=true&theme=transparent"
+    height="150"
+    alt="Top Languages"
+  />
 </p>
 
