@@ -46,22 +46,18 @@ Currently learning Go for backend engineering and exploring Machine Learning wit
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=cmiski&show_icons=true&hide_title=true&hide_border=true&theme=transparent"
-    height="150"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=cmiski&show_icons=true&hide_title=true&hide_border=true"
+    height="160"
     alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=cmiski&hide_border=true&theme=transparent"
-    height="150"
-    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmiski&layout=compact&hide_border=true&theme=transparent"
-    height="150"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cmiski&layout=compact&hide_border=true&langs_count=8"
+    height="160"
     alt="Top Languages"
   />
 </p>
+
 
